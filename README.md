@@ -1,5 +1,5 @@
 # progress-bar
-A simple responsive javascript progress bar library having checkpoints.
+A simple and very light weight responsive javascript progress bar library having checkpoints.
 
 To use this library just include in your html file in the script tag.
 and in your application:
