@@ -14,4 +14,8 @@ and in your application:
 >    'wrapper div(optional)'
 >  );
 
+You can modify styles from css/main.css, according to your requirement
+Also you can modify animation duration as per your requirement.
+> ProgressBar.singleStepAnimation = 1500
+
 See the example file to understand more.
